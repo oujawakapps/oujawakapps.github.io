@@ -12,7 +12,7 @@
      "worker_max_inter_enable" : "false",
      "worker_max_inter_id": "",
      "streamURL":"https://oujawakapps.github.io/animawallpaperapi-12-01-24.json",
-     "enable_title_view" : "false",
+     "enable_title_view" : "true",
     "enable_stream" : "true",
     "ScrapStreamData" : "true",
     "enable_stream_first" : "true",
