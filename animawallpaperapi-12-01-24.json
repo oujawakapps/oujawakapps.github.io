@@ -16,10 +16,6 @@
     "player_direct_download" : "false",
     "USEINPLAYER" : "true",
     "drama_down_server" : "playc.pro",
-    "episodeslist" :"{ \"episode\" : \".list-episode-item li\" ,  \"title\" : \"h3[class=title]\",  \"serie_name\" : \"h3[class=title]\",  \"number\" : \".ep\",\"type\" : \".ep\" , \"url\" : \"a[href]\",  \"poster\" : \"img\" }",
-    "serieslist" :"{ \"serie\" : \".list-episode-item li\" ,  \"title\" : \"h3[class=title]\",  \"url\" : \"a[href]\",  \"poster\" : \"img\" }",
-    "movieslist" :"{ \"movie\" : \".list-episode-item li\" ,  \"title\" : \"h3[class=title]\",\"type\" : \".ep\" , \"url\" : \"a[href]\",  \"poster\" : \"img\" }",
-    "getEpisode" :"{ \"serieName\" : \".info-drama a\" ,  \"controls\" : \".direction a\",  \"servers\" : \".anime_muti_link ul li\", \"serieURL\" : \".info-drama a\", \"downloadpage\" : \"li.download a\"}",
-    "getSerie" :"{ \"title\" : \".details .info h1\" ,  \"desc\" : \".details .info p:not(:has(span))\", \"data\" : \".details .info p:has(span)\", \"dataKey\" : \"span\", \"dataVal\" : \"a\",  \"episodes_list\" : \"ul.all-episode li\"}",
-    "getMovie" :"{ \"title\" : \".details .info h1\" ,  \"desc\" : \".details .info p:not(:has(span))\", \"data\" : \".details .info p:has(span)\", \"dataKey\" : \"span\", \"dataVal\" : \"a\",  \"movieURL\" : \".info-drama a\" ,  \"servers\" : \".anime_muti_link ul li\", \"downloadpage\" : \"li.download a\"}"
-}
+    "wallpaperlist" :"{ \"wallpaper\" : \"div.item\" ,  \"title\" : \"h3[class=title]\",  \"artist\" : \".center span a\", \"url\" : \".center a\",  \"poster\" : \".center img\",\"tags\" : \".thumb-tags a\" }",
+   "getEpisode" :"{ \"serieName\" : \".info-drama a\" ,  \"controls\" : \".direction a\",  \"servers\" : \".anime_muti_link ul li\", \"serieURL\" : \".info-drama a\", \"downloadpage\" : \"li.download a\"}"
+    }
