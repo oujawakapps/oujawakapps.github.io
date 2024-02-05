@@ -16,6 +16,6 @@
     "player_direct_download" : "false",
     "USEINPLAYER" : "true",
     "drama_down_server" : "playc.pro",
-    "wallpaperlist" :"{ \"wallpaper\" : \"div.item\" ,  \"title\" : \"h3[class=title]\",  \"artist\" : \".center span a\", \"url\" : \".center a\",  \"poster\" : \".center img\",\"tags\" : \".thumb-tags a\" }",
+    "wallpaperlist" :"{ \"wallpaper\" : \"div[class='item']\" ,  \"title\" : \"h3[class=title]\",  \"artist\" : \".center span a\", \"url\" : \".center a\",  \"poster\" : \".center img\",\"tags\" : \".thumb-tags a\" }",
    "getEpisode" :"{ \"serieName\" : \".info-drama a\" ,  \"controls\" : \".direction a\",  \"servers\" : \".anime_muti_link ul li\", \"serieURL\" : \".info-drama a\", \"downloadpage\" : \"li.download a\"}"
     }
