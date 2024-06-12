@@ -3,6 +3,7 @@
     "options" : "English",
     "BASE_URL" : "https://alphacoders.com/",
     "WALLPAPERS_BASE_KYEWORD" : "Couple phone wallpapers",
+    "thumb_replace" : "thumb-350-",
     "FIREBASE_SUBS" : "playgeh",   
     "update_active" : "false",
     "CurrentVersionCode" : "2",
