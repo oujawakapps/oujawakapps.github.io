@@ -1,0 +1,22 @@
+{
+    "close" : "false",
+    "options" : "English",
+    "BASE_URL" : "https://alphacoders.com/",
+    "WALLPAPERS_BASE_KYEWORD" : "anime phone wallpapers",
+    "thumb_replace" : "thumb-350-",
+    "FIREBASE_SUBS" : "playgeh",   
+    "update_active" : "false",
+    "CurrentVersionCode" : "2",
+    "force_update": "false",
+    "updateTITLE" : "New Version",
+    "updateMSG" : "",
+    "updatePACKAGENAME" : "com.dts.freefireth",
+    "updateDIRECTLINK" : "false",
+    "player_update" : "false",
+    "player_package" : "com.siyos.amsplayer",
+    "player_direct_download" : "false",
+    "USEINPLAYER" : "true",
+    "drama_down_server" : "playc.pro",
+    "wallpaperlist" :"{ \"wallpaper\" : \"div[class='item']\" ,  \"title\" : \"h3[class=title]\",  \"artist\" : \".center span a\", \"url\" : \".center a\",  \"poster\" : \".center img\",\"tags\" : \".thumb-tags a\" }",
+   "getEpisode" :"{ \"serieName\" : \".info-drama a\" ,  \"controls\" : \".direction a\",  \"servers\" : \".anime_muti_link ul li\", \"serieURL\" : \".info-drama a\", \"downloadpage\" : \"li.download a\"}"
+    }
